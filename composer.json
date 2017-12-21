@@ -1,0 +1,8 @@
+{
+    "name" : "jybc/pinduoduo_sdk",
+    "autoload":{
+        "psr-4":{
+            "Jybc\\Pinduoduo\\":"src/"
+        }
+    }
+}
